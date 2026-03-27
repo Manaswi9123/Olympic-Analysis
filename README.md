@@ -52,3 +52,12 @@ This repository features a comprehensive **Exploratory Data Analysis (EDA)** of 
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/Manaswi9123/Python-DataScience-Fundamentals.git](https://github.com/Manaswi9123/Python-DataScience-Fundamentals.git)
+
+2. **Download the Dataset:**
+Place athlete_events.csv and noc_regions.csv (from Kaggle) into the project root folder.
+
+3. **Install Dependencies:**
+   pip install streamlit pandas plotly matplotlib seaborn
+
+4. **Run the App:**
+   streamlit run App.py
