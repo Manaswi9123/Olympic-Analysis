@@ -1,6 +1,8 @@
 # Olympic-Analysis
 # 🏅 120 Years of Olympic History: Interactive Analysis Dashboard
 
+## Dataset: https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
+
 This repository features a comprehensive **Exploratory Data Analysis (EDA)** of the modern Olympic Games, from Athens 1896 to Rio 2016. The project consists of a deep-dive research notebook and a multi-page **Streamlit** web application for real-time data exploration.
 
 ---
